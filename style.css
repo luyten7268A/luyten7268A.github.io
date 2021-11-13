@@ -38,9 +38,7 @@ div.content {
 /* links */
 a {
   color:"#aaccff";
-}
-a:link {
-  color: #aaccff;
+
 }
 a:hover {
   color: white;
